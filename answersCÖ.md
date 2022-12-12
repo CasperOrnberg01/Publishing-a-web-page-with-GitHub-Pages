@@ -94,14 +94,14 @@ To doubt they were kneeling then.
 ![koira](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Finnish_Spitz_600.jpg/250px-Finnish_Spitz_600.jpg)
 
 ## Exercise 4
-
-```public class Person{
+ ```
+public class Person{
 
   private string name;
   private int age;
-  ```
+  
 
-  ```public Person(string initialName)
+  public Person(string initialName)
   {
     this.age = 0;
     this.name = initialName;
